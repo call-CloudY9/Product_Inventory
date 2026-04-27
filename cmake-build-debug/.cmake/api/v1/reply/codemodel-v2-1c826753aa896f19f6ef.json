@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_application",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_application-Debug-7bfb1e481e1f3db17dcf.json",
+					"name" : "lab_application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_application_autogen-Debug-391251b82b2dfdcfb6ed.json",
+					"name" : "lab_application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_application_autogen_timestamp_deps-Debug-2ce38892ca07f4e17ae1.json",
+					"name" : "lab_application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cloudy9/Desktop/\u0423\u0447\u0435\u0431\u0430 (\u0440\u0435\u0444\u0435\u0440\u0430\u0442\u044b, pdf \u0444\u0430\u0438\u0306\u043b\u044b \u0438 \u0442\u043f)/Product_Inventory/cmake-build-debug",
+		"source" : "/Users/cloudy9/Desktop/\u0423\u0447\u0435\u0431\u0430 (\u0440\u0435\u0444\u0435\u0440\u0430\u0442\u044b, pdf \u0444\u0430\u0438\u0306\u043b\u044b \u0438 \u0442\u043f)/Product_Inventory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

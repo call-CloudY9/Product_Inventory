@@ -1,0 +1,11 @@
+# ninja log v6
+7	1186	1777278350665185781	lab_application_autogen/timestamp	a95eea01130ba324
+7	1186	1777278350665185781	lab_application_autogen/mocs_compilation.cpp	a95eea01130ba324
+7	1186	1777278350665185781	/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/lab_application_autogen/timestamp	a95eea01130ba324
+7	1186	1777278350665185781	/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/lab_application_autogen/mocs_compilation.cpp	a95eea01130ba324
+1203	4297	1777278350726750585	CMakeFiles/lab_application.dir/src/product.cpp.o	2d53a283ed45a5eb
+1195	4407	1777278350719521672	CMakeFiles/lab_application.dir/src/inventory.cpp.o	4facd49cbe7aeda9
+1194	7389	1777278350718045657	CMakeFiles/lab_application.dir/lab_application_autogen/mocs_compilation.cpp.o	b87c398b4a21bc4
+1195	7505	1777278350718896367	CMakeFiles/lab_application.dir/src/main.cpp.o	3d547001febec3d2
+1198	7550	1777278350723028884	CMakeFiles/lab_application.dir/src/mainWindow.cpp.o	f370fe8051a53c94
+7551	8232	1777278357075037111	lab_application	159615638d7f2d6d

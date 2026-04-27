@@ -1,0 +1,5 @@
+/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/CMakeFiles/lab_application.dir
+/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/CMakeFiles/lab_application_autogen_timestamp_deps.dir
+/Users/cloudy9/Desktop/Учеба (рефераты, pdf файлы и тп)/Product_Inventory/cmake-build-debug/CMakeFiles/lab_application_autogen.dir
